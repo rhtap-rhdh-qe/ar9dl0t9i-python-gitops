@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ar9dl0t9i-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ar9dl0t9i-python
